@@ -28,6 +28,7 @@ Subagents integrate seamlessly into Claude Code workflows. Simply describe your 
 - "Research viral content opportunities on social platforms" → `trend-researcher` 
 - "Analyze user feedback patterns from app reviews" → `feedback-synthesizer`
 - "Add delightful animations to this interface" → `whimsy-injector`
+- `/git-commit` → Professional commit message generation following Conventional Commits
 
 ## 📂 Organization
 
@@ -38,6 +39,8 @@ cc-subagents/
 ├── bonus/
 │ ├── joker.md
 │ └── studio-coach.md
+├── commands/
+│ └── git-commit.md
 ├── design/
 │ ├── brand-guardian.md
 │ ├── ui-designer.md
@@ -75,6 +78,9 @@ cc-subagents/
 ```
 
 ## 🔧 Available Subagents
+
+### Commands (`commands/`)
+- **git-commit**: Professional git commit message generator following Conventional Commits specification
 
 ### Bonus (`bonus/`)
 - **joker**: Lighten the mood with programming humor and dad jokes
