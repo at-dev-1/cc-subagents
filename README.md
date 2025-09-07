@@ -151,5 +151,3 @@ This project was inspired by the excellent work at [Contains Studio Agents](http
 MIT License - see LICENSE file for details.
 
 ---
-
-*Engineered for rapid development cycles and maximum creative output.*
