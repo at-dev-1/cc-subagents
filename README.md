@@ -1,6 +1,6 @@
 # Claude Code Subagents
 
-A specialized collection of AI subagents engineered to supercharge rapid development workflows. Each subagent brings domain-specific expertise, activating automatically when their skills are required or can be explicitly invoked for targeted assistance.
+A specialized collection of AI subagents and commands engineered to supercharge rapid development workflows. Each subagent brings domain-specific expertise, activating automatically when their skills are required or can be explicitly invoked for targeted assistance. Commands provide specialized tools for common development tasks like professional git commit message generation.
 
 ## 📦 Setup
 
